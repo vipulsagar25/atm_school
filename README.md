@@ -1,2 +1,2 @@
 # atm_school
-ATM School
+ATM School Guru harkishan public school.
